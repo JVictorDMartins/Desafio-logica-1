@@ -18,7 +18,8 @@ let Ano = 2021 - 21
 
 console.log(`Meu ano de nascimento é ${Ano}`);
 
-let souhumano = trues
+let souhumano = true
+
 console.log(souhumano)
 
 let n1 = 17
